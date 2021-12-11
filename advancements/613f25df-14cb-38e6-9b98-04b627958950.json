@@ -419,6 +419,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2021-12-11 19:53:29 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2021-11-01 00:08:22 +0300"
@@ -776,6 +782,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2021-12-11 20:08:36 +0300"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2021-11-02 00:25:38 +0300"
@@ -881,6 +893,12 @@
   "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2021-11-04 17:46:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2021-12-11 19:53:29 +0300"
     },
     "done": true
   },
@@ -1445,7 +1463,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2021-11-02 16:11:12 +0300",
+      "minecraft:deep_ocean": "2021-12-11 20:48:10 +0300",
       "minecraft:frozen_river": "2021-11-01 22:17:31 +0300",
+      "minecraft:sunflower_plains": "2021-12-11 20:51:50 +0300",
       "minecraft:birch_forest": "2021-11-01 23:34:44 +0300",
       "minecraft:windswept_hills": "2021-10-31 22:56:41 +0300",
       "minecraft:savanna_plateau": "2021-11-04 18:49:27 +0300",
@@ -1460,8 +1480,11 @@
       "minecraft:cold_ocean": "2021-11-01 22:25:28 +0300",
       "minecraft:forest": "2021-10-31 22:47:40 +0300",
       "minecraft:deep_cold_ocean": "2021-11-01 22:25:31 +0300",
+      "minecraft:frozen_ocean": "2021-12-11 20:59:49 +0300",
       "minecraft:desert": "2021-11-04 22:04:23 +0300",
       "minecraft:windswept_forest": "2021-10-31 23:08:35 +0300",
+      "minecraft:deep_frozen_ocean": "2021-12-11 20:59:18 +0300",
+      "minecraft:ocean": "2021-12-11 20:48:07 +0300",
       "minecraft:snowy_beach": "2021-11-01 22:23:04 +0300",
       "minecraft:deep_lukewarm_ocean": "2021-11-01 22:23:34 +0300",
       "minecraft:savanna": "2021-11-04 18:40:40 +0300",
@@ -1586,6 +1609,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2021-10-31 22:50:04 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2021-12-11 21:13:09 +0300"
     },
     "done": true
   },
@@ -1947,6 +1976,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2021-12-11 20:08:36 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-10-31 22:59:30 +0300"
@@ -1968,6 +2003,12 @@
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2021-11-01 00:10:55 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2021-12-11 20:08:36 +0300"
     },
     "done": true
   },
