@@ -1225,6 +1225,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2021-12-12 15:38:06 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2021-11-01 00:27:11 +0300"
@@ -1834,6 +1840,7 @@
       "minecraft:desert": "2021-11-09 15:57:21 +0300",
       "minecraft:deep_frozen_ocean": "2021-11-11 22:39:34 +0300",
       "minecraft:windswept_forest": "2021-11-02 21:04:28 +0300",
+      "minecraft:ocean": "2021-12-12 14:12:52 +0300",
       "minecraft:snowy_beach": "2021-11-03 14:10:07 +0300",
       "minecraft:deep_lukewarm_ocean": "2021-11-09 15:43:26 +0300",
       "minecraft:windswept_gravelly_hills": "2021-12-12 01:48:25 +0300",
@@ -4177,6 +4184,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2021-11-02 14:44:39 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2021-12-12 15:38:06 +0300"
     },
     "done": true
   },
