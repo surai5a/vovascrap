@@ -293,6 +293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2021-12-23 14:00:39 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2021-11-10 15:10:59 +0300"
@@ -308,6 +314,12 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2021-11-10 14:14:13 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2021-12-23 13:55:50 +0300"
     },
     "done": true
   },
@@ -488,7 +500,9 @@
       "minecraft:creeper": "2021-11-10 14:50:29 +0300",
       "minecraft:phantom": "2021-11-10 15:52:29 +0300",
       "minecraft:zombified_piglin": "2021-11-10 14:20:04 +0300",
+      "minecraft:cave_spider": "2021-12-23 13:58:10 +0300",
       "minecraft:piglin": "2021-11-10 15:22:13 +0300",
+      "minecraft:enderman": "2021-12-23 13:58:19 +0300",
       "minecraft:zombie": "2021-11-10 11:08:30 +0300",
       "minecraft:drowned": "2021-11-10 15:45:46 +0300"
     },
@@ -800,6 +814,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2021-12-23 14:00:39 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2021-11-10 14:30:41 +0300"
@@ -966,6 +986,7 @@
     "criteria": {
       "minecraft:taiga": "2021-11-10 10:58:29 +0300",
       "minecraft:deep_ocean": "2021-12-11 00:23:40 +0300",
+      "minecraft:windswept_hills": "2021-12-23 14:13:45 +0300",
       "minecraft:savanna_plateau": "2021-11-10 11:04:13 +0300",
       "minecraft:beach": "2021-12-11 00:19:10 +0300",
       "minecraft:river": "2021-11-10 10:59:47 +0300",
@@ -1698,6 +1719,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2021-12-23 14:00:39 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2021-11-10 14:57:11 +0300"
@@ -1845,6 +1872,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2021-11-10 14:18:50 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2021-12-23 14:58:09 +0300"
     },
     "done": true
   },
@@ -2196,6 +2229,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2021-12-23 12:51:36 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-11-10 15:29:35 +0300"
@@ -2286,6 +2325,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2021-12-23 14:16:19 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-11-10 14:56:14 +0300"
@@ -2370,5 +2415,5 @@
     },
     "done": true
   },
-  "DataVersion": 2860
+  "DataVersion": 2865
 }
