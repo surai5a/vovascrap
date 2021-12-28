@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2021-12-29 00:17:41 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2021-11-10 14:30:41 +0300"
@@ -377,6 +383,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2021-12-28 23:41:29 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2021-11-10 14:36:59 +0300"
@@ -404,6 +416,18 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2021-11-10 14:31:13 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2021-12-29 00:18:48 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2021-12-29 00:17:41 +0300"
     },
     "done": true
   },
@@ -493,6 +517,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2021-12-28 23:40:31 +0300",
       "minecraft:skeleton": "2021-11-10 14:50:25 +0300",
       "minecraft:ghast": "2021-12-15 20:37:14 +0300",
       "minecraft:magma_cube": "2021-12-15 20:36:55 +0300",
@@ -500,6 +525,9 @@
       "minecraft:creeper": "2021-11-10 14:50:29 +0300",
       "minecraft:phantom": "2021-11-10 15:52:29 +0300",
       "minecraft:zombified_piglin": "2021-11-10 14:20:04 +0300",
+      "minecraft:witch": "2021-12-29 00:16:09 +0300",
+      "minecraft:wither_skeleton": "2021-12-28 23:46:52 +0300",
+      "minecraft:husk": "2021-12-29 00:16:21 +0300",
       "minecraft:cave_spider": "2021-12-23 13:58:10 +0300",
       "minecraft:piglin": "2021-11-10 15:22:13 +0300",
       "minecraft:enderman": "2021-12-23 13:58:19 +0300",
@@ -655,6 +683,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2021-12-15 22:36:22 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2021-12-28 23:40:31 +0300"
     },
     "done": true
   },
@@ -984,12 +1018,17 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2021-12-29 00:31:06 +0300",
       "minecraft:taiga": "2021-11-10 10:58:29 +0300",
       "minecraft:deep_ocean": "2021-12-11 00:23:40 +0300",
       "minecraft:windswept_hills": "2021-12-23 14:13:45 +0300",
       "minecraft:savanna_plateau": "2021-11-10 11:04:13 +0300",
       "minecraft:beach": "2021-12-11 00:19:10 +0300",
       "minecraft:river": "2021-11-10 10:59:47 +0300",
+      "minecraft:lukewarm_ocean": "2021-12-29 00:31:29 +0300",
+      "minecraft:stony_shore": "2021-12-29 00:31:20 +0300",
+      "minecraft:snowy_plains": "2021-12-29 00:31:07 +0300",
+      "minecraft:grove": "2021-12-29 00:31:23 +0300",
       "minecraft:cold_ocean": "2021-12-11 00:24:30 +0300",
       "minecraft:forest": "2021-11-10 10:59:51 +0300",
       "minecraft:deep_cold_ocean": "2021-12-11 00:28:22 +0300",
@@ -1457,6 +1496,8 @@
       "chorus_fruit": "2021-12-11 00:21:28 +0300",
       "cooked_cod": "2021-11-10 11:08:46 +0300",
       "bread": "2021-11-10 19:53:11 +0300",
+      "golden_apple": "2021-12-28 23:52:39 +0300",
+      "rotten_flesh": "2021-12-28 23:44:47 +0300",
       "carrot": "2021-11-10 11:15:20 +0300"
     },
     "done": false
@@ -1563,6 +1604,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2021-12-29 00:18:48 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2021-11-10 14:20:44 +0300"
@@ -1596,6 +1643,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2021-11-10 16:11:13 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2021-12-28 23:48:17 +0300"
     },
     "done": true
   },
@@ -1971,6 +2024,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2021-12-28 23:40:31 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2021-11-10 11:09:19 +0300"
@@ -2127,6 +2186,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2021-12-28 23:48:17 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2021-11-10 15:10:17 +0300"
@@ -2169,6 +2234,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2021-12-29 00:17:41 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2021-12-28 23:40:31 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2021-11-10 15:10:59 +0300"
@@ -2208,6 +2285,12 @@
   "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
     "criteria": {
       "has_blue_dye": "2021-12-15 22:36:22 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2021-12-28 23:40:31 +0300"
     },
     "done": true
   },
