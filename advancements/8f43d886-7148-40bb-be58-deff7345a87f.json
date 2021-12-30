@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-12-30 23:55:41 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2021-12-29 22:21:12 +0300"
@@ -209,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2021-12-30 23:19:30 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-11-10 20:01:09 +0300"
@@ -242,6 +254,12 @@
   "minecraft:recipes/food/cooked_rabbit_from_smoking": {
     "criteria": {
       "has_rabbit": "2021-12-29 00:17:41 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2021-12-30 19:53:12 +0300"
     },
     "done": true
   },
@@ -485,6 +503,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-12-30 23:55:41 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_rabbit": "2021-12-29 00:17:41 +0300"
@@ -610,10 +634,13 @@
       "minecraft:blaze": "2021-12-28 23:40:31 +0300",
       "minecraft:pillager": "2021-12-30 12:07:19 +0300",
       "minecraft:skeleton": "2021-11-10 14:50:25 +0300",
+      "minecraft:ravager": "2021-12-30 23:12:51 +0300",
       "minecraft:ghast": "2021-12-15 20:37:14 +0300",
+      "minecraft:vindicator": "2021-12-30 23:11:53 +0300",
       "minecraft:magma_cube": "2021-12-15 20:36:55 +0300",
       "minecraft:spider": "2021-11-10 14:50:10 +0300",
       "minecraft:creeper": "2021-11-10 14:50:29 +0300",
+      "minecraft:evoker": "2021-12-30 23:15:24 +0300",
       "minecraft:phantom": "2021-11-10 15:52:29 +0300",
       "minecraft:zombified_piglin": "2021-11-10 14:20:04 +0300",
       "minecraft:witch": "2021-12-29 00:16:09 +0300",
@@ -622,6 +649,7 @@
       "minecraft:cave_spider": "2021-12-23 13:58:10 +0300",
       "minecraft:piglin": "2021-11-10 15:22:13 +0300",
       "minecraft:enderman": "2021-12-23 13:58:19 +0300",
+      "minecraft:vex": "2021-12-30 23:14:52 +0300",
       "minecraft:zombie": "2021-11-10 11:08:30 +0300",
       "minecraft:drowned": "2021-11-10 15:45:46 +0300"
     },
@@ -669,6 +697,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-12-30 23:55:41 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2021-11-10 14:31:13 +0300"
@@ -702,6 +736,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab": {
     "criteria": {
       "has_deepslate_bricks": "2021-12-29 22:21:30 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2021-12-30 23:09:42 +0300"
     },
     "done": true
   },
@@ -759,6 +799,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-12-30 23:55:41 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-11-10 15:29:35 +0300"
@@ -798,6 +844,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2021-11-10 14:14:16 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-12-30 23:55:41 +0300"
     },
     "done": true
   },
@@ -894,6 +946,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2021-12-29 20:15:41 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-12-30 23:55:40 +0300"
     },
     "done": true
   },
@@ -996,6 +1054,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2021-11-10 14:30:41 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2021-12-30 23:14:05 +0300"
     },
     "done": true
   },
@@ -1348,6 +1412,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-12-30 23:55:41 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2021-11-10 14:56:41 +0300"
@@ -1378,6 +1448,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2021-12-30 19:33:17 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2021-12-11 00:31:38 +0300"
@@ -1399,6 +1475,12 @@
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2021-11-10 14:54:39 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-12-30 23:55:41 +0300"
     },
     "done": true
   },
@@ -1469,6 +1551,12 @@
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2021-12-29 20:54:20 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-12-30 23:55:41 +0300"
     },
     "done": true
   },
@@ -1607,6 +1695,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2021-11-10 14:54:55 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2021-12-30 23:15:26 +0300"
     },
     "done": true
   },
@@ -1897,6 +1991,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-11-10 15:29:35 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-12-30 23:55:41 +0300"
     },
     "done": true
   },
@@ -2242,6 +2342,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2021-12-30 23:14:05 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2021-11-10 16:14:56 +0300"
@@ -2287,6 +2393,18 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2021-12-29 20:54:20 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-12-30 23:55:41 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-12-30 23:55:41 +0300"
     },
     "done": true
   },
@@ -2632,6 +2750,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-12-30 23:55:41 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2021-12-15 22:13:17 +0300"
@@ -2947,6 +3071,18 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2021-11-10 20:01:09 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-12-30 23:55:41 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-12-30 23:55:41 +0300"
     },
     "done": true
   },
